@@ -88,4 +88,7 @@ public class ArrayQueue<AnyType> implements Queue<AnyType>
 		
 	}   
 }
-
+//
+// Ceci est écrit par Hugo. Je voulais simplement essayer de rediger et faire un pull request sur github :P
+// C'est tout. Bye!
+//
